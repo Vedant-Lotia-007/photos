@@ -1,0 +1,6 @@
+﻿name,imageUrl,area,profileUrl,office,tags,isloggeduser,PositionName,id,parentId
+Claudio Facchin,https://cdn.ihsmarkit.com/www/images/Events//Hitachi_Facchin_Claudio_416x416_2022022108001835.png,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE,Chief executive officer,O-6066,
+Ismo Haka,https://cdn.theorg.com/68b4ad98-d500-46a4-9caf-107945ea9f37_small.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,CTO,O-6067,O-6066
+Hesham El-Madany,,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,CTO,O-6068,O-6067
+Nrupesh Mastakar,https://media-exp1.licdn.com/dms/image/C5603AQFRS8YEar3zrw/profile-displayphoto-shrink_200_200/0/1516273340171?e=1655337600&v=beta&t=_PtINzawlHVNW5r-WFi8v-39gdha8thPblJXptC7ZYQ,Corporate,http://example.com/employee/profile,Head of Controlling ＆ Planning CoE,"Ceo,tag1, tag2",FALSE,COE,O-6069,O-6068
+Debadutta Rath,https://media-exp1.licdn.com/dms/image/C5603AQGDt2ZQDeEUuA/profile-displayphoto-shrink_200_200/0/1604080175475?e=1655337600&v=beta&t=mw74Nviv_TmppC6EQ1WunpqigdwLjkjiPCyMP7it6_8,Corporate,http://example.com/employee/profile,Technical Head,"Ceo,tag1, tag2",FALSE,Head,O-6070,O-6069
